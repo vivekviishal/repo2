@@ -21,7 +21,7 @@ int main()
             cout<<j;
         }
         
-        cout<<endl;
+        cout<<endl ;
         
     }
         
